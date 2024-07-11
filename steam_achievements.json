@@ -1,0 +1,593 @@
+{
+    "Video Horror Society": [
+        {
+            "apiname": "ID_TR_CT_Cheerleader_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Cheerleader_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Cheerleader_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Cheerleader_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Cheerleader_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_DollMaster_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_DollMaster_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_DollMaster_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_DollMaster_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_DollMaster_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Eradicator_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Eradicator_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Eradicator_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Eradicator_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Eradicator_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Jock_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Jock_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Jock_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Jock_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Jock_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Nerd_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Nerd_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Nerd_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Nerd_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Nerd_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Outsider_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Outsider_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Outsider_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Outsider_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Outsider_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Punk_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Punk_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Punk_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Punk_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Punk_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Toad_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Toad_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Toad_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Toad_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Toad_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Virgin_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Virgin_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Virgin_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Virgin_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Virgin_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Werewolf_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Werewolf_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Werewolf_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Werewolf_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Werewolf_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_Cross_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_FlameMine_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_Flamethrower_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_HolySlingshot_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_HolyStaff_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_Molotov_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_Parchment_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_RayGun_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_RCCopter_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_StaticShield_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_WT_Talisman_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Anomaly_JourneyComplete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Anomaly_MaxLevel",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Anomaly_Movie1Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Anomaly_Movie2Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "ID_TR_CT_Anomaly_Movie3Complete",
+            "achieved": 0,
+            "unlocktime": 0
+        }
+    ],
+    "Counter-Strike 2": [
+        {
+            "apiname": "PLAY_CS2",
+            "achieved": 0,
+            "unlocktime": 0
+        }
+    ],
+    "Knockout City\u2122": [
+        {
+            "apiname": "Achievement_GOSCC_73571",
+            "achieved": 1,
+            "unlocktime": 1685747078
+        },
+        {
+            "apiname": "Achievement_GOSCC_73572",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73573",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73574",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73575",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73576",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73577",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73578",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73579",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73580",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73581",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73582",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73583",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73584",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73585",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73586",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73587",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73588",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73589",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73590",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73591",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73592",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73593",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73594",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73595",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73596",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73597",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73598",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73599",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73600",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73601",
+            "achieved": 1,
+            "unlocktime": 1685745775
+        },
+        {
+            "apiname": "Achievement_GOSCC_73602",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73603",
+            "achieved": 1,
+            "unlocktime": 1685486403
+        },
+        {
+            "apiname": "Achievement_GOSCC_73604",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73605",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73606",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73607",
+            "achieved": 1,
+            "unlocktime": 1685741815
+        },
+        {
+            "apiname": "Achievement_GOSCC_73608",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73609",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73610",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73611",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73612",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73613",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73614",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73615",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73616",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73617",
+            "achieved": 1,
+            "unlocktime": 1685746168
+        },
+        {
+            "apiname": "Achievement_GOSCC_73618",
+            "achieved": 0,
+            "unlocktime": 0
+        },
+        {
+            "apiname": "Achievement_GOSCC_73619",
+            "achieved": 1,
+            "unlocktime": 1685650640
+        },
+        {
+            "apiname": "Achievement_GOSCC_73620",
+            "achieved": 0,
+            "unlocktime": 0
+        }
+    ]
+}
