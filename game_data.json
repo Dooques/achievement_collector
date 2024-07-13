@@ -1,0 +1,183 @@
+{
+    "Garry's Mod": {
+        "gameName": "Garry's Mod",
+        "appid": 4000,
+        "img_url_hash": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "achievements": {
+            "GMA_PLAY_SINGLEPLAYER": {
+                "displayName": "Play Singleplayer",
+                "description": "Play singleplayer at least once",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/b8ce64f366e8a8a1c2aef231cca8ec82f3115d63.jpg",
+                "achieved": true
+            },
+            "GMA_PLAY_MULTIPLAYER": {
+                "displayName": "Play Multiplayer",
+                "description": "Play multiplayer at least once",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/d6b5b7ac882b0865415218642cb21bfb5a5fca77.jpg",
+                "achieved": true
+            },
+            "GMA_X_STARTUPS": {
+                "displayName": "Startup Millenium",
+                "description": "Start Garry's Mod 1000 times",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/f4bc0f96a846eeaa63a9ea92d11757b342376374.jpg",
+                "achieved": false
+            },
+            "GMA_SAY_1": {
+                "displayName": "Secret Phrase",
+                "description": "Say the secret phrase",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/f331d3e21b7fc96c8f117787fe3e2d5e26b9952e.jpg",
+                "achieved": true
+            },
+            "GMA_X_MINUTES": {
+                "displayName": "Addict",
+                "description": "You have wasted a year of your life playing GMod!",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/9d99453c08ea180230b5ad24f904c0749e6ce139.jpg",
+                "achieved": false
+            },
+            "GMA_X_MAPS": {
+                "displayName": "Map Loader",
+                "description": "Play 20 different maps",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/7cb317f7a953204e79a3fc2923aad8eb77df74bd.jpg",
+                "achieved": true
+            },
+            "GMA_NOT_SANDBOX": {
+                "displayName": "Play Around",
+                "description": "Play a gamemode that isn't sandbox",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/c1421b7d9609b03bca96bae9abde44da628d20a1.jpg",
+                "achieved": true
+            },
+            "GMA_BADDIES": {
+                "displayName": "War Zone",
+                "description": "Killed 1000 Baddies",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/88f7f6f51232d0792f70683599a55974b14086d1.jpg",
+                "achieved": false
+            },
+            "GMA_FRIENDS": {
+                "displayName": "Friendly",
+                "description": "Play with 10 friends",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/14f07b40867ab5ceb305fa99fc1b112fc96abb14.jpg",
+                "achieved": false
+            },
+            "GMA_PLAYWITH_GARRY": {
+                "displayName": "Yes, I am the real garry!",
+                "description": "Play on the same server as garry",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/b018137e2177a4a1ac63460f8b20757d4e7ef2da.jpg",
+                "achieved": false
+            },
+            "GMA_MARATHON": {
+                "displayName": "Marathon",
+                "description": "Play on the same server & map for 8 hours",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/82ee06b6fb3a0aed698dfa33303526d58340f2c1.jpg",
+                "achieved": false
+            },
+            "GMA_HALFMARATHON": {
+                "displayName": "Half Marathon",
+                "description": "Play on the same server & map for 4 hours",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/814409f41a371a1029d4dda336f3d6958c558548.jpg",
+                "achieved": true
+            },
+            "GMA_DAY": {
+                "displayName": "One Day",
+                "description": "24 hours of your life wasted",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/a200f9a8cc7327f9885218ff2e1a9317ce711459.jpg",
+                "achieved": true
+            },
+            "GMA_WEEK": {
+                "displayName": "One Week",
+                "description": "One whole week of your life wasted",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/9d608f3ad483370e261da7991aece5c135432098.jpg",
+                "achieved": false
+            },
+            "GMA_MONTH": {
+                "displayName": "One Month",
+                "description": "One whole month of your life wasted",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/812c6a24eb1997d7784e7bc6ab381899ae6b0753.jpg",
+                "achieved": false
+            },
+            "GMA_BYSTANDER": {
+                "displayName": "Innocent Bystander",
+                "description": "Kill 1000 innocent animals",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/33309ff1fc671bd3bf7f74dfd29df688429d2943.jpg",
+                "achieved": false
+            },
+            "GMA_BALLEATER": {
+                "displayName": "Ball Eater",
+                "description": "Eat 200 balls",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/0352bbe5511ea372e24108680a70929e559c3dcc.jpg",
+                "achieved": false
+            },
+            "GMA_PROPSPAWNER": {
+                "displayName": "Creator",
+                "description": "Spawn 5000 props",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/c45ed5c18d9b92d68ea034d13fe0ee537110753f.jpg",
+                "achieved": false
+            },
+            "GMA_BALLOONPOPPER": {
+                "displayName": "Popper",
+                "description": "Burst 1000 balloons",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/1ce84afb8118aafc4e2aa5c007b97f8d7330bbf8.jpg",
+                "achieved": false
+            },
+            "GMA_REMOVER": {
+                "displayName": "Destroyer",
+                "description": "Remove 5000 things",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/8fbefdee3a3f2ac51a51aa7cd2d5f7116165aad8.jpg",
+                "achieved": false
+            },
+            "GMA_SPAWNMENUER": {
+                "displayName": "Menu User",
+                "description": "Open the spawnmenu 100,000 times",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/5dd0d4a1bcd15561860a06ea76969dfce4ff6b76.jpg",
+                "achieved": false
+            },
+            "GMA_BADCODER": {
+                "displayName": "Bad Coder",
+                "description": "Experience 500 Lua programming errors",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/ab6158930869f33717e4aa55122973ffd8d3d364.jpg",
+                "achieved": true
+            },
+            "GMA_NPCSPAWNER": {
+                "displayName": "Procreator",
+                "description": "Spawn 1000 NPCs",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/e2e840130db8efd5e34f12087a0ccddb7b04f40e.jpg",
+                "achieved": false
+            },
+            "GMA_RAGDOLLSPAWNER": {
+                "displayName": "Dollhouse",
+                "description": "Spawn 2000 ragdolls",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/de22904018d342008bb6d94087190a0c2493689f.jpg",
+                "achieved": false
+            },
+            "GMA_GOODIES": {
+                "displayName": "Bad Friend",
+                "description": "Kill 1000 friendly NPCs",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/040ae0e4fef44e23609b2cd2b545d3f41c782dd0.jpg",
+                "achieved": false
+            },
+            "GMA_SMALLTHUMB": {
+                "displayName": "10 Thumbs",
+                "description": "Your Workshop uploads got 10 thumbs",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/1c5bef9615a260ae3177c26ad8ac86f5dc192ead.jpg",
+                "achieved": false
+            },
+            "GMA_MEDIUMTHUMB": {
+                "displayName": "100 Thumbs",
+                "description": "Your workshop uploads got 100 thumbs",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/0afc0d332af9c5e779302bb7a70d29b15fdec263.jpg",
+                "achieved": false
+            },
+            "GMA_HUGETHUMB": {
+                "displayName": "1000 Thumbs",
+                "description": "Your Workshop uploads got 1000 thumbs",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/f0b8f66a9f445a80fcf7897d8b07c634ae26a469.jpg",
+                "achieved": false
+            },
+            "GMA_MEGAUPLOAD": {
+                "displayName": "Mega Upload",
+                "description": "Get 1000 thumbs on a single upload (then go to jail)",
+                "img_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4000/75b1b16c2b67b893d35d3b8c79de90dcb14dfd4b.jpg",
+                "achieved": false
+            }
+        }
+    }
+}
