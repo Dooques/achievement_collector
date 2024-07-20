@@ -1,0 +1,64 @@
+body {
+background: #17153B;
+color: #C8ACD6;
+font-family: Courier New;
+}
+
+pre {
+font-size: auto;
+}
+
+span {
+color: #C8ACD6;
+}
+
+.nav-link {
+color: #C8ACD6;
+}
+
+#login{
+border-color: #C8ACD6;
+color: #C8ACD6;
+}
+
+#sign-up{
+background-color: #C8ACD6;
+border-color: #C8ACD6;
+color: #17153B;
+font-weight: bold;
+}
+
+.border {
+border-color: #C8ACD6;
+}
+
+ul {
+list-style-type: none;
+text-align: center;
+padding: 0px;
+}
+
+.card-deck {
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-gap: 20px;
+}
+
+.card {
+background: #17153B;
+}
+
+#more {
+background-color: #C8ACD6;
+}
+
+.card-header {
+background-color: #C8ACD6;
+color: #17153B;
+text-align: center;
+}
+
+.card-title {
+background-color: #C8ACD6;
+color: #17153B;
+}
